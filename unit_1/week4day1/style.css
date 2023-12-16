@@ -1,0 +1,11 @@
+#inside{
+    background-color: blue;
+    width:300 px;
+    height: 200 px;
+}
+
+outside{
+    background-color: aqua;
+    width: 500px;
+    height: 300px;
+}

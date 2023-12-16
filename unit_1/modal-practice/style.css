@@ -1,0 +1,12 @@
+.hidden {
+display: none;
+}
+
+#modal-container{
+    display:flex;
+    position:absolute;
+    top:0;
+    left:0;
+    background-color: rgba(red, green, blue, alpha);
+}
+
